@@ -9,6 +9,7 @@ function App() {
   return (
     <div className="App">
     <MyRandomQuote />
+    <h1>Salom</h1>
     </div>
   );
 }
